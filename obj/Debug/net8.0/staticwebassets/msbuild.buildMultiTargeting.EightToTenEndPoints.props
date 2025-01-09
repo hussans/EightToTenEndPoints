@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EightToTenEndPoints.props" />
+</Project>
