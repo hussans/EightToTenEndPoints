@@ -12,3 +12,12 @@
 <br/>
 <br/>
 **GitHub**: https://github.com/hussans/EightToTenEndPoints
+
+## Reviewed By: Santiago Jesus Montanez
+
+The only thing I think you need to change is your controller for GuessIt.
+You need three different areas for each difficulties.
+
+other than you are fine.
+
+I did try breaking your code by adding bad responses and it seem to have worked fine
